@@ -1,0 +1,13 @@
+Agricultor
+Operador
+Ingeniero
+Licenciado
+Tecnico
+Cajero
+Conductor
+Taxista
+Supervisor
+Gerente
+Emprendedor
+Abogado
+Vendedor
